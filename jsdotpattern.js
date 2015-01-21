@@ -1,6 +1,6 @@
 
 if (typeof GridSize == 'undefined')
-	var GridSize = 256;
+	var GridSize = 512;
 if (typeof GridSizeS == 'undefined')
 	var GridSizeS = 0;
 if (typeof CasingWidth == 'undefined')
